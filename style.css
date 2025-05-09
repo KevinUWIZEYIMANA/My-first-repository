@@ -101,6 +101,8 @@ header {
     margin: 10px 0;
 }
 .Experience-section h2 {
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
     font-size: 25px;
     font-weight: bold;
     text-align: center;
@@ -115,12 +117,9 @@ header {
 .Education-1 {
     width: 50%;
     padding: 20px;
-    border-left: white solid 3px
+    border-left: white solid 3px;
 }
-.Education-2 {
-    width: 50%;
-    padding: 20px;
-}
+
 .knowledge-section {
     padding: 30px;
     margin: 10px 0;
